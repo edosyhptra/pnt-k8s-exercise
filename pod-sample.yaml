@@ -1,4 +1,3 @@
-# gcloud container clusters get-credentials onxp-bootcamp-cluster  --region=us-central1-a
 # kubectl apply -f pod.yaml
 ---
 apiVersion: v1
